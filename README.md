@@ -14,13 +14,13 @@ I am a proficient software developer with expertise in web and mobile app develo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princliv&label=Profile%20views&color=32CD32&style=flat" alt="princliv" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-### `Coding Profiles:`
+<!--### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/princliv/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/princliv)
 [![GoogleForDevelopers](https://img.shields.io/badge/-Google-white?style=flat&amp;labelColor=black&amp;logo=google&amp;logoColor=white)](https://g.dev/ankitkumar_hu)
 [![MicrosoftLearn](https://img.shields.io/badge/-Microsoft-blue?style=flat&amp;labelColor=white&amp;logo=microsoft&amp;logoColor=blue)](https://learn.microsoft.com/en-us/users/princliv/)
-<!--[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
 [![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
 [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
@@ -33,7 +33,7 @@ I am a proficient software developer with expertise in web and mobile app develo
 - 💬 Ask me about **Data Analytics** , **Cyber Security** and **Full Stack Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ✨ Intern at **Uma Robotics, IIT Roorkee**
-- 📫 Reach me at : **ankitkumar1990asap@gmail.com** & **itzprincliv@gmail.com**
+- 📫 Reach me at : **sshivendra2004@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
@@ -60,13 +60,13 @@ technologies to meet future requirements.</br>
  ## Education
  <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
-  - 📍 **Uttarakhand Technical University, Dehradun** < 2021-2025 >\
+  - 📍 **Uttarakhand Technical University, Dehradun** < 2022-2026 >\
    📖**Bechelor In Technology-< Computer Science And Engineering >**
 
- - 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** < 2018-2020 >\
+ - 📍 **Shershah College, Sasaram** < 2020-2022 >\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Kendriya Vidyalaya, Danapur Cantt, Patna** < 2013-2018 >\
+ - 📍 **Abr Foundation School, Sasaram** < 2020 >\
    📖**Secondary Schooling**
  
    
