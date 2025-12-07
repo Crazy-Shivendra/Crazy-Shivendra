@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-# <p align="center">👋Hi there, I'm [Ankit Kumar](https://www.linkedin.com/in/ankit1990asap/)</p> <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+# <p align="center">👋Hi there, I'm [Shivendra Sudhanshu](https://www.linkedin.com/in/ankit1990asap/)</p> <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 I am a proficient software developer with expertise in web and mobile app development, specializing in React Native, Node.js, Firebase, and data analytics. Passionate about building innovative digital solutions, I enjoy tackling challenges that push me to learn and grow. My objective is to develop impactful applications with seamless functionality, elegant design, and data-driven insights. With a strong foundation in full-stack development, cybersecurity, and analytics, I am always eager to work on exciting projects with like-minded, creative individuals.
 
